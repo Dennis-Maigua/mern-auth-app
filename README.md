@@ -77,7 +77,7 @@ Open the project folders in 3 terminals, install their packages/dependencies, an
 
 ### 3. Run the Metro Server (the JavaScript _bundler_ for React Native)
 
-On Terminal 3 (Application/Mobile App), Press the <kbd>a</kbd> key to run the app on `Android`, or press the <kbd>i</kbd> key to run the app on `iOS`.
+On Terminal 3 (Application/Mobile App), press the <kbd>a</kbd> key to run the app on `Android`, or press the <kbd>i</kbd> key to run the app on `iOS`.
 
 - For Android
 
