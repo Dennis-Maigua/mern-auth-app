@@ -2,7 +2,7 @@
 
 This project is licensed under the MIT license.
 
-Mern-Auth is a React-Native application and a cross-platform app that runs on both Android and iOS smartphones.
+Mern-Auth is a React-Native application (cross-platform app) that runs on both Android and iOS smartphones.
 
 ### Key Features:
 
