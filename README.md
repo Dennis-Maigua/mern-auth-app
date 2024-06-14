@@ -2,18 +2,14 @@
 
 This project is licensed under the MIT license.
 
-WillGuard is a decentralized application (DApp) leveraging blockchain technology and smart contracts to streamline the creation and execution of wills.
-By harnessing the transparency, security, and immutability of blockchain, this DApp offers users a reliable and efficient solution for managing their testamentary wishes. 
-Traditional will-making processes are often cumbersome, prone to errors, and subject to legal complexities. 
-The Automated Wills DApp revolutionizes this process, offering a user-friendly platform that ensures the accurate execution of testamentary wishes while maintaining the highest standards of security and privacy.
+Mern-Auth is a React-Native application and a cross-platform app that runs on both Android and iOS smartphones.
 
 ### Key Features:
 
-- **Smart Contract Execution**: Smart contracts autonomously execute the terms of the will, ensuring accuracy and reliability.
-- **Immutable Records**: All wills are securely stored on the blockchain, safeguarding them against tampering or loss.
-- **Decentralized Access**: Users can access and update their wills from anywhere in the world, without reliance on intermediaries.
-- **Privacy Protection**: Encryption protocols safeguard sensitive information, granting users peace of mind regarding data security.
-- **Legacy Planning Tools**: Additional features facilitate comprehensive legacy planning, including asset distribution and beneficiary management.
+- **Sign Up**: allows users to create a new account by providing necessary details like username, email, and password.
+- **Email Authentication**: involves sending a verification email containing a unique otp or code to the provided email address.
+- **Login**: allows registered users to log in to their accounts using their credentials (email and password).
+- **Forgot Password**: allows users to enter their email and receive a unique reset password token or link to reset their password.
 
 # Environment and Setup:
 
@@ -112,4 +108,5 @@ If everything is set up correctly, you should see your new app running in your A
 This is one way to run your app — you can also run it directly from within your Smartphone/Mobile Device, or Android Studio, and Xcode respectively.
    
 # Contributing:
+
 We welcome contributions from developers, legal experts, and blockchain enthusiasts. Feel free to fork the repository, make improvements, and submit pull requests.
