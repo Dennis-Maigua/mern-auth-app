@@ -17,7 +17,7 @@ The Automated Wills DApp revolutionizes this process, offering a user-friendly p
 
 # Environment and Setup:
 
->**Note**: Make sure you have installed the latest version of [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en/download/package-manager) before proceeding.
+>**Note**: Make sure you have installed the latest version of [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download/package-manager), and [MongoDB](https://www.mongodb.com/try/download/community) before proceeding.
 
 ### 1. Clone the Repository
 
