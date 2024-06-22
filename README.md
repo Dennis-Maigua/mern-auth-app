@@ -9,7 +9,7 @@ Mern-Auth-App is a React-Native (cross-platform) application that runs on both A
 ### Key Features:
 
 - **Sign Up**: allows users to create a new account by providing necessary details like username, email, and password.
-- **Email Authentication**: involves sending a verification email containing a unique otp or code to the provided email address.
+- **Email Authentication**: involves sending a verification email containing a unique OTP or code to the provided email address.
 - **Login**: allows registered users to log in to their accounts using their credentials (email and password).
 - **Forgot Password**: allows users to enter their email and receive a unique reset password token or link to reset their password.
 
