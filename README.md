@@ -19,7 +19,7 @@ Mern-Auth-App is a React-Native (cross-platform) application that runs on both A
 
 ### 1. Clone the Repository
 
-Copy the project to your local machine (Desktop):
+Download the project to your local machine (Desktop):
 
 ```bash
     $ cd Desktop
